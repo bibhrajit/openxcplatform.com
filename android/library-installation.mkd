@@ -27,7 +27,7 @@ line](#cli) with Maven.
     <h3 id="andoidStudio"><a href="#andoidStudio">Using Android Studio</a></h3>
 </div>
 
-[Android Studio] (https://developer.android.com/tools/studio/index.html) is now the official IDE for Android, so migrate to Android Studio to receive all the latest IDE updates.
+[Android Studio] (https://developer.android.com/tools/studio/index.html) is now the official IDE for Android, so migrate to Android Studio to receive all the latest IDE updates. First, install the latest [Android Studio] (https://developer.android.com/sdk/index.html). Make sure you have Java JDK v7 or higher. 
 
 <div class="page-header">
     <h3 id="eclipse"><a href="#eclipse">Using Eclipse</a></h3>
